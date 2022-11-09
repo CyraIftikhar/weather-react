@@ -121,7 +121,7 @@ export default function Weather() {
         </div>
       </div>
       <div class="source-code">
-        <a href="https://github.com/CyraIftikhar/vanilla-weather-app">
+        <a href="https://github.com/CyraIftikhar/weather-react">
           Open-source code
         </a>{" "}
         by Cyra Iftikhar
